@@ -25,3 +25,13 @@ Automatically will open a new tab with the entire exam.
 4. Click on `Load without compression`
 5. Select the `src` folder of this project
 6. That's it!
+
+
+---
+
+## Lời cảm ơn (Acknowledgements)
+
+Dự án này là một phiên bản được cập nhật (nâng cấp lên Manifest V3) từ dự án gốc [Socrative Extractor](https://github.com/brunoinds/socrative-extractor) của tác giả [brunoinds](https://github.com/brunoinds).
+
+Toàn bộ ý tưởng và phần lớn mã nguồn gốc thuộc về tác giả. Xin gửi lời cảm ơn chân thành đến bạn.
+(This project is an updated version (upgraded to Manifest V3) of the original [Socrative Extractor](https://github.com/brunoinds/socrative-extractor) by [brunoinds](https://github.com/brunoinds). All original ideas and the majority of the original code belong to the author. Thank you!)
