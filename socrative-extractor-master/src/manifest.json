@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Socrative Quiz Extractor",
+  "version": "1.0.1",
+  "description": "Save your Socrative Quiz Data",
+  "author": "brunofreire@outlook.com",
+  "permissions": ["activeTab"],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["main.js"],
+      "all_frames": true
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Quạ Cắp Đề"
+  },
+  "icons": {
+    "16": "icons/16.png",
+    "48": "icons/48.png",
+    "128": "icons/128.png"
+  }
+}
